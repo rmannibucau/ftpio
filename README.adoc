@@ -1,0 +1,10 @@
+= A FTP Talend Component Family
+
+See component documentation for details.
+
+== Building
+
+[source,sh]
+----
+mvn clean install
+----
